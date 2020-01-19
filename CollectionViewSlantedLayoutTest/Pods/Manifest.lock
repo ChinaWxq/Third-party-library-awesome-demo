@@ -1,0 +1,16 @@
+PODS:
+  - CollectionViewSlantedLayout (3.1.1)
+
+DEPENDENCIES:
+  - CollectionViewSlantedLayout
+
+SPEC REPOS:
+  trunk:
+    - CollectionViewSlantedLayout
+
+SPEC CHECKSUMS:
+  CollectionViewSlantedLayout: 24397455acd2461960bc45d394e0ef99c17d03ce
+
+PODFILE CHECKSUM: ffad22faa420a6dfac6fbf73289f6351d63747e3
+
+COCOAPODS: 1.8.4
