@@ -1,4 +1,4 @@
-See a lot of excellent iOS third-party libraries, understand their properties and methods by writing an example
+See a lot of excellent iOS third-party libraries, understand their properties and methods by writing an example.
 
 ## CollectionViewSlantedLayout
 <p align="center">
@@ -9,7 +9,7 @@ See a lot of excellent iOS third-party libraries, understand their properties an
 [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) is a subclass of the UICollectionViewLayout allowing the display of **slanted** cells in a UICollectionView. 
 
 <p align="center">
-<img src="resource/1.gif" width="350" height="757"/>
+<img src="resource/1.gif" width="231" height="500"/>
 </p>
 
 ### Use
